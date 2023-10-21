@@ -9,7 +9,7 @@ download all included images for buttons as .png files in ./your_directory/Image
 output PDF files wll be generated in ./your_directory/PDF/
 
 Features :
--MERGE 2 PDF = Merge two PDF in one /n 
+-MERGE 2 PDF = Merge two PDF in one \n
 -MERGE ALL PDF = Merge all the PDF in a specified directory"
 -SPLIT ALL PAGES = Split a PDF in all its pages
 -EXTRACT N PAGES = Extract a specified part of a PDF
